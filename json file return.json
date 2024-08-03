@@ -1,0 +1,157 @@
+{
+    "name": "Samarth Singh Chauhan",
+    "contact_info": {
+      "phone": "+91 9579734793",
+      "email": "samarthsinghchauhan9103@gmail.com",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "summary": "",
+    "experience": [
+      {
+        "job_title": "Machine Learning Engineer",
+        "company": "Hashcron",
+        "location": "",
+        "dates": {
+          "start": "Jan 2024",
+          "end": "June 2024"
+        },
+        "responsibilities": [
+          "CRM UI/functionality, implemented role-based security, and managed accounts/contacts. Demonstrated leadership by resolving team issues",
+          "Specialized in sales forecasting using SQL, Tableau, Power BI, and Excel to create strategic reports and dashboards Doing Data visualization.",
+          "Integrated models for opportunity pipeline and sales forecasting. Implemented AI-assisted email marketing with NLP, showcasing teamwork in CRM API integration."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Tech Electronics and Telecommunication",
+        "institution": "VIIT - Pune",
+        "location": "Pune, India",
+        "dates": {
+          "start": "Aug 2021",
+          "end": "May 2024"
+        }
+      },
+      {
+        "degree": "Senior Secondary (TBSE)",
+        "institution": "FIITJEE Junior School",
+        "location": "Hyderabad, India",
+        "dates": {
+          "start": "2018",
+          "end": "2020"
+        }
+      }
+    ],
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "GitHub",
+      "Postman",
+      "Tableau",
+      "Power BI",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Deep Learning",
+      "Object Oriented Programming",
+      "REST API",
+      "MS Excel",
+      "Data Analytics",
+      "Project Management",
+      "Analytical and Critical Thinking",
+      "Interpersonal Skills"
+    ],
+    "projects": [
+      {
+        "project_name": "NLP Sentiment Analysis Project",
+        "description": [
+          "Implemented NLP techniques for sentiment analysis using NLTK, TextBlob, and Transformer models.",
+          "Developed and evaluated machine learning models for sentiment classification.",
+          "Integrated state-of-the-art Transformer models from Hugging Face for enhanced performance.",
+          "Created comprehensive visualizations and reports to communicate findings effectively."
+        ],
+        "technologies_used": [
+          "NLTK",
+          "NLP",
+          "Hugging Face",
+          "Python"
+        ],
+        "dates": "Oct 2023"
+      },
+      {
+        "project_name": "Aircraft Tyre Defect and Health Detection System",
+        "description": [
+          "Developed a high-precision system using computer vision and machine learning for aircraft tire defect detection.",
+          "Integrated forecasting of tire health and remaining useful life for proactive maintenance.",
+          "Utilized Python, OpenCV, TensorFlow, and Keras for defect classification and image enhancement.",
+          "Ensured seamless integration between defect detection and predictive maintenance for enhanced aviation safety and efficiency.",
+          "Curated datasets and used advanced visualization for predictive health monitoring and maintenance strategies."
+        ],
+        "technologies_used": [
+          "TensorFlow",
+          "Keras",
+          "PyTorch",
+          "Python",
+          "OpenCV"
+        ],
+        "dates": "Jan 2023 - Dec 2023"
+      },
+      {
+        "project_name": "Airbnb Price Analysis",
+        "description": [
+          "Conducted comprehensive EDA on Airbnb data to understand pricing trends and factors influencing reservations.",
+          "Cleaned and processed data, addressing missing values and transforming features for machine learning.",
+          "Visualized insights using matplotlib and seaborn, highlighting seasonal price variations and feature correlations.",
+          "Applied Random Forest and XGBoost models to predict Airbnb prices based on accommodation details, host attributes, and seasonal trends.",
+          "Achieved high model accuracy (Random Forest R^2 = 0.981, XGBoost R^2 = 0.918), demonstrating proficiency in data analysis, cleaning, visualization, and machine learning."
+        ],
+        "technologies_used": [
+          "Python (NumPy, Pandas)",
+          "Keras",
+          "PyTorch",
+          "Matplotlib",
+          "Seaborn",
+          "Scikit-learn",
+          "Random Forest"
+        ],
+        "dates": "Jan 2024"
+      },
+      {
+        "project_name": "Hyperspectral Image Coffee Classifier",
+        "description": [],
+        "technologies_used": [],
+        "dates": ""
+      },
+      {
+        "project_name": "Cricket Data Analytics Project",
+        "description": [
+          "Using Web Scraping, Python, Pandas, and Power BI"
+        ],
+        "technologies_used": [
+          "Python",
+          "Pandas",
+          "Power BI"
+        ],
+        "dates": ""
+      }
+    ],
+    "certifications": [
+      "JAVA Masterclass",
+      "Google Advanced Data Analytics Professional Certificate",
+      "Career Essentials in Business Analysis by Microsoft"
+    ],
+    "extracurricular": [
+      "Contributed as a team member in organizing the 2022 National E-Summit, 'Vishwapreneur'.",
+      "Core team member of CyberCell VIIT and organized an International CTF Competition which had a prize pool of 1 lakh."
+    ]
+  }
+  
